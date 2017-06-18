@@ -1,6 +1,6 @@
 # Description
 
-This is a Frogger-style arcade game written in Javascript for play in most browsers. The goal is to move your character forward towards the water without getting hit by the enemy bugs. 
+This is a Frogger-style arcade game written in Javascript for play in most browsers. The goal is to move your character forward towards the water without getting hit by the enemy bugs. If you are hit by an enemy bug, you lose, and the game restarts.
 
 # Installation
 
@@ -18,7 +18,7 @@ Open a browser window and navigate to the index.html file in your application's 
   - Avoid hitting the bugs while trying to make it to the water
   - When you reach the water (or if you're hit by a bug) your character will return to the start position and you can try again.
 
-#Resources
+# Resources
 
 https://discussions.udacity.com/t/extra-tips-for-getting-started-on-the-classic-arcade-game-clone-project/4084
 https://discussions.udacity.com/t/completely-lost-on-the-course-leading-up-to-the-arcade-project/188190/2
